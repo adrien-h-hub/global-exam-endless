@@ -59,7 +59,6 @@
    ```powershell
    & "C:\Users\Dardq\AppData\Local\Programs\Python\Python313\python.exe" -m pip install -r requirements.txt
    ```
-3. Ajouter vos images de détection (ex: `PNJ/*.png`, `Q7_answer.png`) dans `PNJ/` et/ou `assets/`.
 
 ## Première exécution (code masqué)
 
