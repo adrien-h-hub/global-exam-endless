@@ -63,11 +63,10 @@
 
 ## Première exécution (code masqué)
 
-Lors du premier lancement, un **code à usage unique** est demandé. La saisie est **masquée**.
+Lors du premier lancement, un **code à usage unique** est demandé dans la console. La saisie est **masquée**. Ne publiez jamais ce code.
 
-- Code: `602172`
-- Création d’un fichier `.first_run_ok` après succès.
-- Pour réactiver le prompt: supprimez `.first_run_ok`.
+- Après une saisie correcte, un fichier `.first_run_ok` est créé afin de ne plus redemander le code aux exécutions suivantes.
+- Pour réactiver le prompt, supprimez le fichier `.first_run_ok`.
 
 ## Utilisation
 
