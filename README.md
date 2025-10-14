@@ -1,4 +1,4 @@
-# 5Endless – Automatisation GlobalExam (Activité 7 / Business > Bâtiment)
+# Endless – Automatisation GlobalExam (Activité 7 / Business > Bâtiment)
 
 ![5Endless](assets/5endless_logo.svg)
 
