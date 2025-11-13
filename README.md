@@ -1,6 +1,234 @@
-# 🔵 GlobalExam Endless - Mode Sans Pause / Endless Mode
+# 🚀 GlobalExam Endless - Fast Mode
 
-> 🇫🇷 **Version Française ci-dessous** | 🇬🇧 **English Version Below**
+**Language:** 🇬🇧 English | 🇫🇷 Français
+
+**Ultra-fast automation for GlobalExam Activity 7 (Business > Building)**
+
+⚡ **Fast Mode** • ∞ **No Pauses** • 🔄 **Continuous Cycles**
+
+---
+
+## 🎯 What is GlobalExam Endless?
+
+GlobalExam Endless is a professional GUI automation tool for GlobalExam Activity 7. It runs **continuously without breaks**, making it perfect for maximum speed and efficiency.
+
+---
+
+## ✨ Key Features
+
+- ⚡ **Ultra-Fast Mode** - No pauses between cycles
+- 🎨 **Beautiful GUI** - Modern green interface
+- 📊 **Real-Time Statistics** - Track cycles, questions, and time
+- 🔐 **Password Protection** - Secure one-time authentication
+- 📐 **Auto-Resolution Scaling** - Works on any screen size
+- 🔍 **Browser Zoom Normalization** - Automatic 100% zoom
+- 📝 **Live Activity Log** - Real-time event tracking
+- 🖼️ **Image Recognition** - Smart answer detection with fallbacks
+- 🎯 **13-Question Support** - Complete automation for all questions
+
+---
+
+## 📦 Installation
+
+### Quick Start
+
+1. **Download** the installer:
+   - `GlobalExam_Endless_Setup_v1.0.0.exe`
+
+2. **Run** the installer:
+   - Double-click the downloaded file
+   - Follow the installation wizard
+   - Choose "Create desktop icon"
+
+3. **Launch** from desktop:
+   - Blue icon with infinity symbol (∞)
+
+4. **First-run authentication**:
+   - Enter the provided password
+   - Authentication is saved (one-time only)
+
+### Requirements
+
+| Requirement | Details |
+|-------------|---------|
+| **OS** | Windows 10/11 |
+| **Browser** | Chrome/Firefox at 100% zoom |
+| **Screen** | 1920x1080 recommended (auto-adapts) |
+| **Disk Space** | 200 MB |
+| **Activity** | GlobalExam Activity 7 only |
+
+---
+
+## 🚀 Usage
+
+### Running the Application
+
+1. **Open GlobalExam** in your browser
+2. **Navigate** to Activity 7 (Business > Building)
+3. **Start** an exercise
+4. **Launch** GlobalExam Endless from desktop
+5. **Click DÉMARRER** to start automation
+
+### First Launch
+
+On first run, you'll see a password dialog:
+- Enter the **provided password**
+- Click **"Valider"**
+- A `.first_run_ok` file is created
+- You won't be asked again
+
+### Using the App
+
+The application will automatically:
+- ✅ Detect your screen resolution
+- ✅ Normalize browser zoom to 100%
+- ✅ Start continuous automation
+- ✅ Complete all 13 questions
+- ✅ Repeat cycles indefinitely
+
+**To stop:** Click **"ARRÊTER"** button
+
+---
+
+## 📊 Features Overview
+
+| Feature | Description |
+|---------|-------------|
+| **Continuous Mode** | Runs indefinitely without pauses |
+| **Cycle Counter** | Tracks completed cycles |
+| **Question Counter** | Tracks completed questions |
+| **Timer** | Shows elapsed time |
+| **Activity Log** | Timestamped event logging |
+| **Error Handling** | Graceful error recovery |
+| **Resolution Scaling** | 1366x768 to 4K support |
+
+---
+
+## 🎨 Interface
+
+When you open the program, you'll see:
+
+```
+┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+┃  🔵  GLOBALEXAM ENDLESS          ┃
+┃  ∞ Automation Continue           ┃
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+
+📊 STATISTIQUES
+├─ 🔄 Cycles: 0
+├─ ❓ Questions: 0
+└─ ⏱ Temps: 00:00:00
+
+📋 JOURNAL D'ACTIVITÉ
+└─ [Timestamp] Events...
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+▶ DÉMARRER  |  ⏹ ARRÊTER
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+## ⚙️ Configuration
+
+### Auto-Resolution Scaling
+
+The app automatically scales coordinates based on a **1920x1080 baseline**:
+- Detects your current resolution
+- Adjusts all click positions proportionally
+- No manual configuration needed
+
+### Browser Zoom
+
+On startup, the app automatically:
+- Presses **Ctrl+0** multiple times
+- Ensures browser is at **100% zoom**
+- Prevents clicking misalignment
+
+---
+
+## 🐛 Troubleshooting
+
+| Issue | Solution |
+|-------|----------|
+| **Questions skipped** | Ensure browser zoom is at 100% |
+| **Clicks miss targets** | Verify browser window is visible |
+| **App won't start** | Check password is correct |
+| **Images not found** | Ensure PNJ folder exists with app |
+| **Password rejected** | Re-enter carefully (3 attempts max) |
+
+---
+
+## 🆚 Pause vs Endless Mode
+
+| | Pause Mode 🟢 | Endless Mode 🔵 |
+|---|--------------|-----------------|
+| **Icon** | Green with ⏸️ | Blue with ∞ |
+| **Pauses** | Yes (40 min) | No, never |
+| **Speed** | Normal | Ultra-fast |
+| **Best For** | Long sessions | Maximum speed |
+| **Installer** | GlobalExam_Pause_Setup | GlobalExam_Endless_Setup |
+
+**You can install both!**
+
+---
+
+## ⚠️ Important Notes
+
+- ✅ **Target Activity**: GlobalExam Activity 7 (Business > Building) only
+- ✅ **Browser Zoom**: Must be at 100% (auto-normalized)
+- ✅ **Screen Resolution**: Any resolution supported
+- ⚠️ **Do not minimize browser** during execution
+- ⚠️ **Do not change zoom** during execution
+
+---
+
+## 📂 What's Included
+
+```
+GlobalExam Endless/
+├── GlobalExam_Endless.exe       # Main application
+├── PNJ/                         # Image templates
+│   ├── q1_to_get_familiar.png
+│   ├── q2_im_doing_great.png
+│   ├── Q3.png to Q13.png
+│   └── (35+ recognition images)
+├── LICENSE.txt                  # License file
+└── README.md                    # This file
+```
+
+---
+
+## 📝 License
+
+This project is provided for **personal/educational automation purposes**. Please respect the platform's terms of service.
+
+---
+
+## 🌟 Tips & Tricks
+
+### Tip 1: Maximum Speed
+- Use Endless mode for fastest completion
+- No waiting for pause timers
+
+### Tip 2: Monitor Progress
+- Watch the statistics update in real-time
+- Check activity log for any issues
+
+### Tip 3: When to Stop
+- Click ARRÊTER when you've completed enough cycles
+- App saves progress automatically
+
+### Tip 4: Multiple Modes
+- Install both Pause and Endless
+- Use Pause for long sessions
+- Use Endless for speed runs
+
+---
+
+**Made with ❤️ for GlobalExam students**
+
+🔵 **Happy Speed Learning!** ⚡∞
 
 ---
 
