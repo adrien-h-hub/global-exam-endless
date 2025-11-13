@@ -1,12 +1,14 @@
 # 🚀 GlobalExam Endless - Fast Mode
 
-**Language:** 🇬🇧 English | 🇫🇷 Français
+**Language:** [🇬🇧 English](#english-version) | [🇫🇷 Français](#version-française)
 
 **Ultra-fast automation for GlobalExam Activity 7 (Business > Building)**
 
 ⚡ **Fast Mode** • ∞ **No Pauses** • 🔄 **Continuous Cycles**
 
 ---
+
+<a name="english-version"></a>
 
 ## 🎯 What is GlobalExam Endless?
 
@@ -231,6 +233,8 @@ This project is provided for **personal/educational automation purposes**. Pleas
 🔵 **Happy Speed Learning!** ⚡∞
 
 ---
+
+<a name="version-française"></a>
 
 # 🇫🇷 VERSION FRANÇAISE
 
